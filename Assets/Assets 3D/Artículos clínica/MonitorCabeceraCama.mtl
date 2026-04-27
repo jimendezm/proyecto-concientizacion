@@ -1,0 +1,65 @@
+# Blender 4.4.0 MTL File: 'MonitorCabeceraCama.blend'
+# www.blender.org
+
+newmtl ElectricSystm
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_46.png
+map_d C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_46.png
+map_Bump -bm 1.000000 C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_47.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.502883 0.502887 0.502887
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl TvSystm
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_49.png
+map_d C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_49.png
+map_Bump -bm 1.000000 C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_50.png
+
+newmtl gris2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.194617 0.194618 0.194618
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl gris3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.107022 0.099899 0.099899
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl material_8
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_52.png
+map_d C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_52.png
+map_Bump -bm 1.000000 C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_53.png

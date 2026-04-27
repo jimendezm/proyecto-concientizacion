@@ -1,0 +1,44 @@
+# Blender 4.4.0 MTL File: 'sillón y mesita.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.502883 0.502887 0.502887
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.107022 0.099899 0.099899
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Sofa.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_65.png
+map_d C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_65.png
+map_Bump -bm 1.000000 C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_66.png
+
+newmtl Table
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_68.png
+map_d C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_68.png
+map_Bump -bm 1.000000 C:/Users/lpazm/Downloads/3dpea.com_hospital_room/textures/image_69.png
